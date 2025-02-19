@@ -1,4 +1,5 @@
 <?php
+//test
 include "database.class.php";
 include "connect.php";
 header("refresh: 300;");
